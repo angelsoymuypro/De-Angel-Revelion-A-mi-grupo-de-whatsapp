@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia de los Nazis y la URSS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            color: #333;
+        }
+        .container {
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            max-width: 600px;
+            width: 100%;
+        }
+        h1, h2, h3 {
+            text-align: center;
+            color: #0044cc;
+        }
+        p {
+            text-align: justify;
+            line-height: 1.6;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.8em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Arriba Angel</h1>
+        <h2>Abajo el Emanuellas</h2>
+        <h3>La Batalla de los Nazis y la URSS</h3>
+        <p>
+            Durante la Segunda Guerra Mundial, los nazis fueron derrotados debido a una combinación de factores como los errores estratégicos, 
+            la resistencia de los Aliados, y las pérdidas masivas en el frente oriental contra la URSS. Algunas de las peores catástrofes que 
+            sufrió la URSS durante este período fueron las brutales batallas de Stalingrado y Leningrado, que devastaron el país, pero finalmente, 
+            contribuyeron a la derrota de la Alemania nazi.
+        </p>
+        <p>
+            La batalla de Stalingrado fue uno de los puntos de inflexión más importantes en la guerra. Las fuerzas soviéticas lograron rodear 
+            y derrotar al 6º Ejército Alemán, causando enormes bajas y marcando el comienzo del declive militar de la Alemania nazi. Por otro 
+            lado, la URSS enfrentó hambrunas y la destrucción de grandes ciudades, lo que dejó cicatrices duraderas en el país.
+        </p>
+        <p>
+            Aunque tanto los nazis como la URSS sufrieron grandes pérdidas humanas y materiales, la estrategia de resistencia y las alianzas 
+            internacionales de la URSS fueron fundamentales para cambiar el rumbo de la guerra.
+        </p>
+        <div class="footer">
+            <p>&copy; 2024 Historia Web | Creado por Ángel Guadalupe</p>
+        </div>
+    </div>
+</body>
+</html>
