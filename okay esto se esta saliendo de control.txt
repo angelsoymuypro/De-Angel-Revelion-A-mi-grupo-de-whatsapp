@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Historia de los Nazis y la URSS</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Enlaza tu archivo CSS -->
+</head>
+<body>
+    <header>
+        <h1>Arriba Angel</h1>
+        <h2>Abajo el Emanuellas</h2>
+    </header>
+    
+    <main>
+        <h3>La Batalla de los Nazis y la URSS</h3>
+        <p>
+            Durante la Segunda Guerra Mundial, los nazis fueron derrotados debido a una combinación de factores como los errores estratégicos, 
+            la resistencia de los Aliados, y las pérdidas masivas en el frente oriental contra la URSS. Algunas de las peores catástrofes que 
+            sufrió la URSS durante este período fueron las brutales batallas de Stalingrado y Leningrado, que devastaron el país, pero finalmente, 
+            contribuyeron a la derrota de la Alemania nazi.
+        </p>
+        <p>
+            La batalla de Stalingrado fue uno de los puntos de inflexión más importantes en la guerra. Las fuerzas soviéticas lograron rodear 
+            y derrotar al 6º Ejército Alemán, causando enormes bajas y marcando el comienzo del declive militar de la Alemania nazi. 
+        </p>
+        <p>
+            Aunque tanto los nazis como la URSS sufrieron grandes pérdidas humanas y materiales, la estrategia de resistencia y las alianzas 
+            internacionales de la URSS fueron fundamentales para cambiar el rumbo de la guerra.
+        </p>
+    </main>
+    
+    <footer>
+        <p>&copy; 2024 Historia Web | Creado por Ángel Guadalupe</p>
+    </footer>
+</body>
+</html>
